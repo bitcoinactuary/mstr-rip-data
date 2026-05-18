@@ -1,7 +1,7 @@
 {
-  "totalBtc": 818869,
+  "totalBtc": 843738,
   "debtUsd": 8254000000,
-  "lastUpdated": "2026-05-11",
+  "lastUpdated": "2026-05-18",
   "newStrcTranches": [
     {
       "date": "2026-05-11",
@@ -9,6 +9,13 @@
       "principal": 141200,
       "btcQty": 1.759,
       "btcBuyPrice": 80340
+    },
+    {
+      "date": "2026-05-18",
+      "shares": 19519801,
+      "principal": 1951980100,
+      "btcQty": 24066.6,
+      "btcBuyPrice": 80985
     }
   ]
 }
