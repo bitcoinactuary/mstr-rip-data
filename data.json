@@ -1,21 +1,30 @@
-{
-  "totalBtc": 843738,
-  "debtUsd": 8254000000,
-  "lastUpdated": "2026-05-18",
-  "newStrcTranches": [
-    {
-      "date": "2026-05-11",
-      "shares": 1412,
-      "principal": 141200,
-      "btcQty": 1.759,
-      "btcBuyPrice": 80340
-    },
-    {
-      "date": "2026-05-18",
-      "shares": 19519801,
-      "principal": 1951980100,
-      "btcQty": 24066.6,
-      "btcBuyPrice": 80985
-    }
-  ]
-}
+	
+totalBtc	843738
+debtUsd	6754000000
+lastUpdated	"2026-05-18"
+newStrcTranches	
+0	
+date	"2026-05-26"
+shares	1412
+principal	141200
+btcQty	1.759
+btcBuyPrice	80340
+1	
+date	"2026-05-18"
+shares	19519801
+principal	1951980100
+btcQty	24066.6
+btcBuyPrice	80985
+strive	
+totalBtc	16500
+debtUsd	0
+lastUpdated	"2026-05-26"
+newSataTranches	
+0	
+date	"2026-05-26"
+shares	515298
+principal	51529800
+btcQty	669.3
+btcBuyPrice	76989
+asterisk	false
+approx	false
