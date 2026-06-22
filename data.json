@@ -1,8 +1,8 @@
 {
-  "totalBtc": 846842,
+  "totalBtc": 847363,
   "debtUsd": 6754000000,
-  "cashUsd": 1100000000,
-  "lastUpdated": "2026-06-15",
+  "cashUsd": 1400000000,
+  "lastUpdated": "2026-06-22",
   "newStrcTranches": [
     {
       "date": "2026-05-11",
@@ -20,11 +20,11 @@
     }
   ],
   "strive": {
-    "totalBtc": 19105,
+    "totalBtc": 19864,
     "debtUsd": 0,
-    "cashUsd": 141400000,
-    "strcHoldingsUsd": 47874000,
-    "lastUpdated": "2026-06-15",
+    "cashUsd": 144500000,
+    "strcHoldingsUsd": 44738000,
+    "lastUpdated": "2026-06-22",
     "newSataTranches": [
       {
         "date": "2026-05-26",
@@ -41,6 +41,15 @@
         "principal": 175418800,
         "btcQty": 2367.6,
         "btcBuyPrice": 74092,
+        "asterisk": false,
+        "approx": false
+      },
+      {
+        "date": "2026-06-22",
+        "shares": 315595,
+        "principal": 31559500,
+        "btcQty": 479.3,
+        "btcBuyPrice": 65850,
         "asterisk": false,
         "approx": false
       }
