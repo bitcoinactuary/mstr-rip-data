@@ -28,11 +28,11 @@
     }
   ],
   "strive": {
-    "totalBtc": 19864,
+    "totalBtc": 20000,
     "debtUsd": 0,
-    "cashUsd": 141700000,
-    "strcHoldingsUsd": 37658000,
-    "lastUpdated": "2026-06-29",
+    "cashUsd": 154000000,
+    "strcHoldingsUsd": 43879000,
+    "lastUpdated": "2026-07-28",
     "newSataTranches": [
       {
         "date": "2026-05-26",
