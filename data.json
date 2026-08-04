@@ -1,3 +1,4 @@
+
 {
   "totalBtc": 842138,
   "debtUsd": 6754000000,
@@ -104,6 +105,7 @@
         "asterisk": false,
         "approx": false
       }
-    ]
+    ],
+    "sataFutureRatePct": 13
   }
 }
