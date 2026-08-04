@@ -1,4 +1,3 @@
-
 {
   "totalBtc": 842138,
   "debtUsd": 6754000000,
@@ -75,7 +74,7 @@
       "a": "The future Bitcoin price is key. To this author's knowledge, no one else has tabulated the preference share data in this way, but it will be key to MSTR's destiny — if Bitcoin outperforms the dividends payable on the preference shares in the long term, Strategy will surely become one of the largest companies in the world. If it cannot, it will place enormous and growing pressure on the MSTR model."
     }
   ],
-  "strive": {
+ "strive": {
     "totalBtc": 20020,
     "debtUsd": 0,
     "cashUsd": 151300000,
@@ -110,6 +109,38 @@
         "approx": false
       }
     ],
-    "sataFutureRatePct": 13
-  }
+    "sataFutureRatePct": 13,
+    "newSataDivs": [
+      {
+        "ym": "2026-06",
+        "ps": 1.0833
+      },
+      {
+        "ym": "2026-07",
+        "ps": 1.0833
+      },
+      {
+        "ym": "2026-08",
+        "ps": 1.0833
+      }
+    ]
+  },
+  "newStrcDivs": [
+    {
+      "ym": "2026-05",
+      "ps": 0.9792
+    },
+    {
+      "ym": "2026-06",
+      "ps": 0.99
+    },
+    {
+      "ym": "2026-07",
+      "ps": 1
+    },
+    {
+      "ym": "2026-08",
+      "ps": 1
+    }
+  ]
 }
