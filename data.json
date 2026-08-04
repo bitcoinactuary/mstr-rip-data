@@ -3,6 +3,7 @@
   "debtUsd": 6754000000,
   "cashUsd": 4000000000,
   "lastUpdated": "2026-08-03",
+  "strcFutureRatePct": 12,
   "newStrcTranches": [
     {
       "date": "2026-05-11",
@@ -33,6 +34,40 @@
       "btcQty": -1269.6,
       "btcBuyPrice": 63957,
       "buyback": true
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is this site for?",
+      "a": "This site is for MSTR bears and bulls alike. It seeks to provide a dispassionate evaluation of an extraordinary piece of financial engineering — Strategy's preference share programme, which has raised over $13 billion in little over a year to April 2026, all deployed into Bitcoin."
+    },
+    {
+      "q": "What does the site help evaluate?",
+      "a": "It tracks the effective performance of the Bitcoin purchased via each preference share issuance, comparing its current value against the cost of the preference shares issued plus dividends paid to date. The viewer can also adjust the time horizon, future Bitcoin price, and future estimated dividend rate (for STRC) to model a forward-looking scenario. In either case, the site shows whether each tranche of preference shares is in a state of notional profit or loss."
+    },
+    {
+      "q": "The preference shares never have to repay principal — so why does this metric matter?",
+      "a": "<p style='margin-bottom:12px'>Whether MSTR is in notional profit or loss for each tranche is not strictly relevant in isolation — the tranches are not directly ring-fenced against the Bitcoin they help purchase. However, over the longer term, MSTR's common equity will sink or swim based on whether the Bitcoin purchased via the preference shares can outperform the dividends payable on them.</p><p style='margin-bottom:12px'>Think of it this way: imagine a fresh issuance of $100m of STRC today, used to buy $100m of Bitcoin. MSTR could, if they chose, fund the dividends by gradually selling down that Bitcoin each time a payment fell due.</p><p>Over time, that tranche either provides a boost to common equity holders — if Bitcoin outperforms the cumulative dividends — or a drag, if it underperforms. In the latter case, the Bitcoin from that single tranche would eventually be exhausted, and MSTR would need to subsidise payments from elsewhere. The profit or loss shown on this site models exactly this scenario.</p>"
+    },
+    {
+      "q": "Is MSTR a Ponzi scheme?",
+      "a": "<p style='margin-bottom:12px'>Not in this author's opinion. When MSTR issues preference shares, it immediately deploys the proceeds into Bitcoin — which is intended to outperform the dividend obligation over time. If MSTR chose to, they could gradually sell that Bitcoin to meet dividend payments directly.</p><p>It is also worth noting that Strategy reserves the right to raise capital via equity ATM issuance, further preference share issuance, and debt. The fact that they may in practice use other capital-raising methods to fund dividends does not make them a Ponzi scheme — the Bitcoin holdings always remain available as an ultimate backstop.</p>"
+    },
+    {
+      "q": "At what point could MSTR face a margin call or insolvency?",
+      "a": "As discussed by Michael Saylor on the Bankless podcast (link below), MSTR cannot be margin called on its preference shares — there is no margin attached to them. They also cannot, on their own, force MSTR into insolvency, as the directors would not approve a dividend payment that they knew would cause the company to become insolvent.<br><br><a href='https://www.youtube.com/watch?v=t0mhU6umAuI' target='_blank' rel='noreferrer' style='color:#f7931a;font-size:11px;word-break:break-all'>https://www.youtube.com/watch?v=t0mhU6umAuI</a>"
+    },
+    {
+      "q": "Where does your data come from?",
+      "a": "All data is sourced from <a href='https://www.strategy.com/purchases' target='_blank' rel='noreferrer' style='color:#f7931a'>https://www.strategy.com/purchases</a>. While every effort has been made to maintain accuracy, and the site will be updated regularly, viewers should not rely on any figures here for investment decisions."
+    },
+    {
+      "q": "Why don't you include the convertible debt?",
+      "a": "Within a few years Strategy will likely have paid down their convertible debt and replaced it with more preference share issuance — the trend is clear. In the long term, it is the performance of Bitcoin versus the dividends paid on preference shares that will shape the destiny of this company. We do subtract the convertible debt when calculating the number of years dividend coverage."
+    },
+    {
+      "q": "Where does this all end?",
+      "a": "The future Bitcoin price is key. To this author's knowledge, no one else has tabulated the preference share data in this way, but it will be key to MSTR's destiny — if Bitcoin outperforms the dividends payable on the preference shares in the long term, Strategy will surely become one of the largest companies in the world. If it cannot, it will place enormous and growing pressure on the MSTR model."
     }
   ],
   "strive": {
