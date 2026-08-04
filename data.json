@@ -44,7 +44,7 @@
     },
     {
       "q": "What does the site help evaluate?",
-      "a": "It tracks the effective performance of the Bitcoin purchased via each preference share issuance, comparing its current value against the cost of the preference shares issued plus dividends paid to date. The viewer can also adjust the time horizon, future Bitcoin price, and future estimated dividend rate (for STRC) to model a forward-looking scenario. In either case, the site shows whether each tranche of preference shares is in a state of notional profit or loss."
+      "a": "It tracks the effective performance of the Bitcoin purchased via each preference share issuance, comparing its current value against the cost of the preference shares issued plus dividends paid to date. The viewer can also adjust the time horizon, future Bitcoin price, and future estimated dividend rate (for STRC) to model a forward-looking scenario. In either case, the site shows whether each tranche of preference shares is in a state of notional profit or loss. The same analysis has been added for Strive."
     },
     {
       "q": "The preference shares never have to repay principal — so why does this metric matter?",
@@ -65,6 +65,10 @@
     {
       "q": "Why don't you include the convertible debt?",
       "a": "Within a few years Strategy will likely have paid down their convertible debt and replaced it with more preference share issuance — the trend is clear. In the long term, it is the performance of Bitcoin versus the dividends paid on preference shares that will shape the destiny of this company. We do subtract the convertible debt when calculating the number of years dividend coverage."
+    },
+     {
+      "q": "How do you treat it when MSTR buys back STRC, but not BTC is sold to do this?",
+      "a": "Every action is treated as more Bitcoin being the opportunity cost of it. Hence this site treats selling MSTR to buy back STRC as the same as them selling MSTR to buy Bitcoin, and immediately selling that Bitcoin to buy back STRC. A Bitcoin price estimate from the relevant week is used in this case. The same logic applies to some of the Strive actions."
     },
     {
       "q": "Where does this all end?",
