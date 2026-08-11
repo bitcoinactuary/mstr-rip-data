@@ -1,40 +1,21 @@
 {
-  "totalBtc": 842138,
+  "totalBtc": 840447,
   "debtUsd": 6754000000,
-  "cashUsd": 4000000000,
-  "lastUpdated": "2026-08-03",
-  "strcFutureRatePct": 12,
+  "cashUsd": 4650000000,
+  "lastUpdated": "2026-08-10",
+  "strcFutureRatePct": 12.00,
+  "newStrcDivs": [
+    {"ym": "2026-05", "ps": 0.9792},
+    {"ym": "2026-06", "ps": 0.9900},
+    {"ym": "2026-07", "ps": 1.0000},
+    {"ym": "2026-08", "ps": 1.0000}
+  ],
   "newStrcTranches": [
-    {
-      "date": "2026-05-11",
-      "shares": 1412,
-      "principal": 141200,
-      "btcQty": 1.759,
-      "btcBuyPrice": 80340
-    },
-    {
-      "date": "2026-05-18",
-      "shares": 19519801,
-      "principal": 1951980100,
-      "btcQty": 24066.6,
-      "btcBuyPrice": 80985
-    },
-    {
-      "date": "2026-07-27",
-      "shares": -288930,
-      "principal": -28893000,
-      "btcQty": -387.6,
-      "btcBuyPrice": 64500,
-      "buyback": true
-    },
-    {
-      "date": "2026-08-03",
-      "shares": -912143,
-      "principal": -91214300,
-      "btcQty": -1269.6,
-      "btcBuyPrice": 63957,
-      "buyback": true
-    }
+    {"date":"2026-05-11","shares":1412,"principal":141200,"btcQty":1.759,"btcBuyPrice":80340},
+    {"date":"2026-05-18","shares":19519801,"principal":1951980100,"btcQty":24066.6,"btcBuyPrice":80985},
+    {"date":"2026-07-27","shares":-288930,"principal":-28893000,"btcQty":-387.6,"btcBuyPrice":64500,"buyback":true},
+    {"date":"2026-08-03","shares":-912143,"principal":-91214300,"btcQty":-1269.6,"btcBuyPrice":63957,"buyback":true},
+    {"date":"2026-08-10","shares":-1152020,"principal":-115202000,"btcQty":-1689.9,"btcBuyPrice":64262,"buyback":true}
   ],
   "faqs": [
     {
@@ -65,8 +46,8 @@
       "q": "Why don't you include the convertible debt?",
       "a": "Within a few years Strategy will likely have paid down their convertible debt and replaced it with more preference share issuance — the trend is clear. In the long term, it is the performance of Bitcoin versus the dividends paid on preference shares that will shape the destiny of this company. We do subtract the convertible debt when calculating the number of years dividend coverage."
     },
-     {
-      "q": "How do you treat it when MSTR buys back STRC, but not BTC is sold to do this?",
+    {
+      "q": "How do you treat it when MSTR buys back STRC, but no BTC is sold to do this?",
       "a": "Every action is treated as more Bitcoin being the opportunity cost of it. Hence this site treats selling MSTR to buy back STRC as the same as them selling MSTR to buy Bitcoin, and immediately selling that Bitcoin to buy back STRC. A Bitcoin price estimate from the relevant week is used in this case. The same logic applies to some of the Strive actions."
     },
     {
@@ -74,73 +55,22 @@
       "a": "The future Bitcoin price is key. To this author's knowledge, no one else has tabulated the preference share data in this way, but it will be key to MSTR's destiny — if Bitcoin outperforms the dividends payable on the preference shares in the long term, Strategy will surely become one of the largest companies in the world. If it cannot, it will place enormous and growing pressure on the MSTR model."
     }
   ],
- "strive": {
-    "totalBtc": 20020,
+  "strive": {
+    "totalBtc": 20167,
     "debtUsd": 0,
-    "cashUsd": 151300000,
-    "strcHoldingsUsd": 45177000,
-    "lastUpdated": "2026-08-03",
-    "newSataTranches": [
-      {
-        "date": "2026-05-26",
-        "shares": 515298,
-        "principal": 51529800,
-        "btcQty": 669.3,
-        "btcBuyPrice": 76989,
-        "asterisk": false,
-        "approx": false
-      },
-      {
-        "date": "2026-06-02",
-        "shares": 1754188,
-        "principal": 175418800,
-        "btcQty": 2367.6,
-        "btcBuyPrice": 74092,
-        "asterisk": false,
-        "approx": false
-      },
-      {
-        "date": "2026-06-22",
-        "shares": 315595,
-        "principal": 31559500,
-        "btcQty": 479.3,
-        "btcBuyPrice": 65850,
-        "asterisk": false,
-        "approx": false
-      }
-    ],
-    "sataFutureRatePct": 13,
+    "cashUsd": 154900000,
+    "strcHoldingsUsd": 47980000,
+    "sataFutureRatePct": 13.00,
     "newSataDivs": [
-      {
-        "ym": "2026-06",
-        "ps": 1.0833
-      },
-      {
-        "ym": "2026-07",
-        "ps": 1.0833
-      },
-      {
-        "ym": "2026-08",
-        "ps": 1.0833
-      }
+      {"ym": "2026-06", "ps": 1.0833},
+      {"ym": "2026-07", "ps": 1.0833},
+      {"ym": "2026-08", "ps": 1.0833}
+    ],
+    "lastUpdated": "2026-08-10",
+    "newSataTranches": [
+      {"date":"2026-05-26","shares":515298,"principal":51529800,"btcQty":669.3,"btcBuyPrice":76989,"asterisk":false,"approx":false},
+      {"date":"2026-06-02","shares":1754188,"principal":175418800,"btcQty":2367.6,"btcBuyPrice":74092,"asterisk":false,"approx":false},
+      {"date":"2026-06-22","shares":315595,"principal":31559500,"btcQty":479.3,"btcBuyPrice":65850,"asterisk":false,"approx":false}
     ]
-  },
-  "newStrcDivs": [
-    {
-      "ym": "2026-05",
-      "ps": 0.9792
-    },
-    {
-      "ym": "2026-06",
-      "ps": 0.99
-    },
-    {
-      "ym": "2026-07",
-      "ps": 1
-    },
-    {
-      "ym": "2026-08",
-      "ps": 1
-    }
-  ]
+  }
 }
