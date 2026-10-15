@@ -1,8 +1,8 @@
 {
-  "totalBtc": 848000,
+  "totalBtc": 848250,
   "debtUsd": 6754000000,
-  "cashUsd": 5713400000,
-  "lastUpdated": "2026-10-05",
+  "cashUsd": 5520500000,
+  "lastUpdated": "2026-10-12",
   "strcFutureRatePct": 12.00,
   "newStrcDivs": [
     {"ym": "2026-05", "ps": 0.9792},
@@ -25,7 +25,8 @@
     {"date":"2026-09-21","shares":-1771238,"principal":-177123800,"btcQty":-2184.1,"btcBuyPrice":79670,"buyback":true},
     {"date":"2026-09-27","shares":-1534530,"principal":-151700000,"btcQty":-1770.1,"btcBuyPrice":85681,"buyback":true},
     {"date":"2026-09-30","shares":-1033168,"principal":-102600000,"btcQty":-1196.7,"btcBuyPrice":85731,"buyback":true},
-    {"date":"2026-10-04","shares":-740634,"principal":-73700000,"btcQty":-858.7,"btcBuyPrice":85838,"buyback":true}
+    {"date":"2026-10-04","shares":-740634,"principal":-73700000,"btcQty":-858.7,"btcBuyPrice":85838,"buyback":true},
+    {"date":"2026-10-11","shares":-1932145,"principal":-192400000,"btcQty":-2231.0,"btcBuyPrice":86194,"buyback":true}
   ],
   "faqs": [
     {"q":"What is this site for?","a":"This site is for MSTR bears and bulls alike. It seeks to provide a dispassionate evaluation of an extraordinary piece of financial engineering — Strategy's preference share programme, which has raised over $13 billion in little over a year to April 2026, all deployed into Bitcoin."},
@@ -39,9 +40,9 @@
     {"q":"Where does this all end?","a":"The future Bitcoin price is key. To this author's knowledge, no one else has tabulated the preference share data in this way, but it will be key to MSTR's destiny — if Bitcoin outperforms the dividends payable on the preference shares in the long term, Strategy will surely become one of the largest companies in the world. If it cannot, it will place enormous and growing pressure on the MSTR model."}
   ],
   "strive": {
-    "totalBtc": 29462,
+    "totalBtc": 35595,
     "debtUsd": 0,
-    "cashUsd": 284722000,
+    "cashUsd": 310300000,
     "strcHoldingsUsd": 49763000,
     "sataFutureRatePct": 13.00,
     "newSataDivs": [
@@ -50,7 +51,7 @@
       {"ym": "2026-08", "ps": 1.0833},
       {"ym": "2026-09", "ps": 1.0833}
     ],
-    "lastUpdated": "2026-10-05",
+    "lastUpdated": "2026-10-13",
     "newSataTranches": [
       {"date":"2026-05-26","shares":515298,"principal":51529800,"btcQty":669.3,"btcBuyPrice":76989,"asterisk":false,"approx":false},
       {"date":"2026-06-02","shares":1754188,"principal":175418800,"btcQty":2367.6,"btcBuyPrice":74092,"asterisk":false,"approx":false},
@@ -61,7 +62,8 @@
       {"date":"2026-09-14","shares":402541,"principal":40254100,"btcQty":516.4,"btcBuyPrice":77954,"asterisk":false,"approx":false},
       {"date":"2026-09-21","shares":786194,"principal":78619400,"btcQty":989.2,"btcBuyPrice":79475,"asterisk":false,"approx":false},
       {"date":"2026-09-25","shares":1009020,"principal":100902000,"btcQty":1107.0,"btcBuyPrice":85396,"asterisk":false,"approx":false},
-      {"date":"2026-10-02","shares":1304902,"principal":130490200,"btcQty":2000.0,"btcBuyPrice":84422,"asterisk":false,"approx":false}
+      {"date":"2026-10-02","shares":1304902,"principal":130490200,"btcQty":2000.0,"btcBuyPrice":84422,"asterisk":false,"approx":false},
+      {"date":"2026-10-09","shares":532094,"principal":53209400,"btcQty":629.9,"btcBuyPrice":84500,"asterisk":false,"approx":true}
     ]
   }
 }
