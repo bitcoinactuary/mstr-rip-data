@@ -26,8 +26,7 @@
     {"date":"2026-09-27","shares":-1534530,"principal":-151700000,"btcQty":-1770.1,"btcBuyPrice":85681,"buyback":true},
     {"date":"2026-09-30","shares":-1033168,"principal":-102600000,"btcQty":-1196.7,"btcBuyPrice":85731,"buyback":true},
     {"date":"2026-10-04","shares":-740634,"principal":-73700000,"btcQty":-858.7,"btcBuyPrice":85838,"buyback":true},
-    {"date":"2026-10-11","shares":-1932145,"principal":-192400000,"btcQty":-2231.0,"btcBuyPrice":86194,"buyback":true},
-      {"date":"2026-10-18","shares":-1938780,"principal":-193100000,"btcQty":-2330,"btcBuyPrice":82900,"buyback":true}
+    {"date":"2026-10-11","shares":-1932145,"principal":-192400000,"btcQty":-2231.0,"btcBuyPrice":86194,"buyback":true}
   ],
   "faqs": [
     {"q":"What is this site for?","a":"This site is for MSTR bears and bulls alike. It seeks to provide a dispassionate evaluation of an extraordinary piece of financial engineering — Strategy's preference share programme, which has raised over $13 billion in little over a year to April 2026, all deployed into Bitcoin."},
