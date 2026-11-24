@@ -1,8 +1,8 @@
 {
-  "totalBtc": 850849,
+  "totalBtc": 851305,
   "debtUsd": 6754000000,
-  "cashUsd": 4750000000,
-  "lastUpdated": "2026-11-15",
+  "cashUsd": 4820000000,
+  "lastUpdated": "2026-11-22",
   "strcFutureRatePct": 12.0,
   "newStrcDivs": [
     {
@@ -184,6 +184,14 @@
       "btcQty": -3311.2,
       "btcBuyPrice": 68887,
       "buyback": true
+    },
+    {
+      "date": "2026-11-22",
+      "shares": -2183747,
+      "principal": -218374700,
+      "btcQty": -3263.6,
+      "btcBuyPrice": 64898,
+      "buyback": true
     }
   ],
   "faqs": [
@@ -231,8 +239,8 @@
   "strive": {
     "totalBtc": 43404,
     "debtUsd": 0,
-    "cashUsd": 465300000,
-    "strcHoldingsUsd": 50455000,
+    "cashUsd": 462400000,
+    "strcHoldingsUsd": 47268000,
     "sataFutureRatePct": 13.0,
     "newSataDivs": [
       {
@@ -288,7 +296,7 @@
         "approx": true
       }
     ],
-    "lastUpdated": "2026-11-13",
+    "lastUpdated": "2026-11-20",
     "newSataTranches": [
       {
         "date": "2026-05-26",
@@ -388,6 +396,28 @@
         "btcBuyPrice": 84500,
         "asterisk": false,
         "approx": true
+      }
+    ]
+  },
+  "swc": {
+    "futureRatePct": 12.0,
+    "newMoreDivs": [],
+    "newMoreTranches": [
+      {
+        "date": "2026-11-03",
+        "shares": -1775,
+        "principal": -211882,
+        "btcQty": -2.4,
+        "btcBuyPrice": 58619,
+        "buyback": true
+      },
+      {
+        "date": "2026-11-18",
+        "shares": -3265,
+        "principal": -389763,
+        "btcQty": -5.2,
+        "btcBuyPrice": 49019,
+        "buyback": true
       }
     ]
   }
