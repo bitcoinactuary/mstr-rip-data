@@ -299,6 +299,15 @@
     "lastUpdated": "2026-11-20",
     "newSataTranches": [
       {
+        "date": "2026-05-19",
+        "shares": 287674,
+        "principal": 28767400,
+        "btcQty": 362.5,
+        "btcBuyPrice": 79348,
+        "asterisk": false,
+        "approx": true
+      },
+      {
         "date": "2026-05-26",
         "shares": 515298,
         "principal": 51529800,
